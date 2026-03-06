@@ -1,120 +1,51 @@
-🛒 EASY MART Billing System (Python)
-📌 Project Description
+# 🔐 Security Device Installation Website
 
-The EASY MART Billing System is a simple Python-based console application that allows users to:
+## 📌 Project Overview
 
-Enter multiple items
+The Security Device Installation Website is a simple web-based platform developed to provide information about modern security devices and installation services. The website helps customers learn about different security systems that can be installed in homes, offices, and commercial spaces to improve safety and surveillance.
 
-Calculate subtotal
+The main goal of this project is to create a user-friendly website where users can easily explore security solutions and contact the service provider for installation.
 
-Apply discount based on total amount
+## 🚀 Features
 
-Display final bill amount
+* Displays information about various security devices
+* CCTV camera installation services
+* Biometric attendance and access control systems
+* Alarm and surveillance security systems
+* Simple and easy navigation
+* Separate pages for Home, About, and Contact
 
-This project demonstrates:
+## 🛠️ Technologies Used
 
-User input handling
+* HTML for webpage structure
+* CSS for styling and layout
+* JavaScript for basic interactivity
 
-Loops
+## 📄 Website Pages
 
-Conditional statements
+### Home Page (index.html)
 
-Basic billing logic
+The home page introduces the security services and provides an overview of the available security devices and installation solutions.
 
-Formatted output
+### About Page (about.html)
 
-🚀 Features
+The about page explains the purpose of the website, the services offered, and the importance of security systems.
 
-✅ Accepts multiple item entries
-✅ Calculates total price per item
-✅ Computes subtotal
-✅ Applies discount automatically
-✅ Displays final payable amount
-✅ Clean and formatted bill output
+### Contact Page (contact.html)
 
-💻 Technologies Used
+The contact page allows users to send inquiries or request installation services by providing their contact details.
 
-Python 3
+## ▶️ How to Run the Project
 
-Basic Programming Concepts
+1. Download or clone this repository.
+2. Open the project folder on your computer.
+3. Open the **index.html** file in any web browser.
+4. Navigate through the pages using the menu links.
 
-📊 Discount Criteria
-Total Amount (₹)	Discount
-₹1000 – ₹2999	5%
-₹3000 – ₹4999	10%
-₹5000 and above	15%
-🧾 Sample Output
-Welcome to EASY MART
-Enter number of items: 2
+## 🎯 Purpose of the Project
 
-Enter Item Details
+This project was created to demonstrate basic web development skills using HTML, CSS, and JavaScript by building a simple multi-page website.
 
-Item 1
-Item Name: Rice
-Price(₹): 50
-Quantity: 10
-Rice Total = ₹500.00
-
-Item 2
-Item Name: Oil
-Price(₹): 150
-Quantity: 5
-Oil Total = ₹750.00
-
-BILL
-Sub Total: ₹1250.00
-Discount: ₹62.50
-Final Amount: ₹1187.50
-----------------------------------------
-Thank You for Shopping at EASY MART
-Visit Again!
-🧠 How It Works
-
-User enters number of items.
-
-For each item:
-
-Name
-
-Price
-
-Quantity
-
-Program calculates:
-
-Item total
-
-Subtotal
-
-Discount (based on slab)
-
-Final amount
-
-Bill is displayed neatly.
-
-📂 How to Run
-
-Install Python (if not installed).
-
-Save the file as easy_mart.py
-
-Run the program:
-
-python easy_mart.py
-🎯 Learning Outcome
-
-This project helps in understanding:
-
-For loops
-
-If-elif conditions
-
-Arithmetic operations
-
-Formatted printing
-
-Basic billing system logic
-
-👨‍💻 Author
+## 👨‍💻 Author
 
 Nithish
